@@ -1,3 +1,2 @@
-General_License
 License1
 License2
