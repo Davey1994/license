@@ -39,3 +39,4 @@ vex
 wukong
 yone
 zilean
+kogmaw
