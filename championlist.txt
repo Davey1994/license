@@ -40,3 +40,4 @@ wukong
 yone
 zilean
 kogmaw
+jhin
