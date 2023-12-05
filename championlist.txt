@@ -41,3 +41,4 @@ yone
 zilean
 kogmaw
 jhin
+varus
