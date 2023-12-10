@@ -43,3 +43,4 @@ kogmaw
 jhin
 varus
 nilah
+kindred
