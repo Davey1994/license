@@ -47,3 +47,4 @@ kindred
 amumu
 karthus
 twitch
+jinx
