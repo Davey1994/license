@@ -51,3 +51,4 @@ jinx
 gangplank
 illaoi
 fiddlesticks
+tristana
