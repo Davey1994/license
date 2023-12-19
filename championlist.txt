@@ -53,3 +53,4 @@ illaoi
 fiddlesticks
 tristana
 masteryi
+thresh
