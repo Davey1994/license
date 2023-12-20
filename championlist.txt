@@ -54,3 +54,4 @@ fiddlesticks
 tristana
 masteryi
 thresh
+pantheon
