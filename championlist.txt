@@ -55,3 +55,4 @@ tristana
 masteryi
 thresh
 pantheon
+senna
