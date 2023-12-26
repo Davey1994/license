@@ -36,7 +36,7 @@ trundle
 twistedfate
 vayne
 vex
-wukong
+monkeyking
 yone
 zilean
 kogmaw
@@ -57,3 +57,4 @@ thresh
 pantheon
 senna
 lux
+wukong
