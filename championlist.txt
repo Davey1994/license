@@ -58,3 +58,5 @@ pantheon
 senna
 lux
 wukong
+ekko
+zed
