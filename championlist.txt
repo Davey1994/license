@@ -61,3 +61,4 @@ wukong
 ekko
 zed
 annie
+blitzcrank
