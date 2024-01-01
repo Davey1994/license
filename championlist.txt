@@ -63,3 +63,4 @@ zed
 annie
 blitzcrank
 draven
+zeri
