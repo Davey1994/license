@@ -64,3 +64,4 @@ annie
 blitzcrank
 draven
 zeri
+veigar
