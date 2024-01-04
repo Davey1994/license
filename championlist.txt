@@ -65,3 +65,4 @@ blitzcrank
 draven
 zeri
 veigar
+qiyana
